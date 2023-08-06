@@ -10,5 +10,4 @@ Following tendermint [website](https://docs.tendermint.com/) and doing some chan
 
 ## Run
 
-docker pull ciejo/node:v1 
-docker-compose up -d
+docker pull ciejo/node:v1 && docker-compose up -d
